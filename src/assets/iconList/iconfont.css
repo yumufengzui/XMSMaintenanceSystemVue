@@ -1,0 +1,236 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3244379 */
+  src: url('iconfont.woff2?t=1647828214711') format('woff2'),
+       url('iconfont.woff?t=1647828214711') format('woff'),
+       url('iconfont.ttf?t=1647828214711') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  /* font-size: 16px; */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e809";
+}
+
+.icon-download:before {
+  content: "\e80a";
+}
+
+.icon-settlement:before {
+  content: "\e80b";
+}
+
+.icon-sales:before {
+  content: "\e80c";
+}
+
+.icon-remind:before {
+  content: "\e80d";
+}
+
+.icon-members:before {
+  content: "\e80e";
+}
+
+.icon-undo:before {
+  content: "\e80f";
+}
+
+.icon-user_1:before {
+  content: "\e810";
+}
+
+.icon-user:before {
+  content: "\e811";
+  font-size: 14px;
+}
+
+.icon-new_cashier:before {
+  content: "\e812";
+}
+
+.icon-System_Setting:before {
+  content: "\e813";
+}
+
+.icon-product:before {
+  content: "\e814";
+}
+
+.icon-setting:before {
+  color: #fff;
+  content: "\e815";
+}
+
+.icon-System_maintenance:before {
+  content: "\e816";
+}
+
+.icon-xdmp:before {
+  content: "\e817";
+}
+
+.icon-Member_system:before {
+  content: "\e818";
+}
+
+.icon-secondary_library:before {
+  content: "\e819";
+}
+
+.icon-apartment:before {
+  content: "\e7e8";
+}
+
+.icon-archives:before {
+  content: "\e7e9";
+}
+
+.icon-cache:before {
+  content: "\e7ea";
+}
+
+.icon-banquet:before {
+  content: "\e7eb";
+}
+
+.icon-cashier:before {
+  content: "\e7ec";
+}
+
+.icon-booking:before {
+  content: "\e7ee";
+}
+
+.icon-audit:before {
+  content: "\e7ef";
+}
+
+.icon-excel:before {
+  font-size: 50px;
+  content: "\e7f0";
+}
+
+.icon-export:before {
+  content: "\e7f1";
+}
+
+.icon-basic:before {
+  content: "\e7f2";
+}
+
+.icon-hotel_setting:before {
+  content: "\e7f3";
+}
+
+.icon-delete:before {
+  content: "\e7f4";
+}
+
+.icon-fill:before {
+  content: "\e7f5";
+}
+
+.icon-interface:before {
+  content: "\e7f6";
+}
+
+.icon-other:before {
+  content: "\e7f7";
+}
+
+.icon-complete:before {
+  content: "\e7f8";
+}
+
+.icon-log:before {
+  content: "\e7f9";
+}
+
+.icon-hotel:before {
+  content: "\e7fa";
+}
+
+.icon-opera:before {
+  content: "\e7fb";
+}
+
+.icon-Modify:before {
+  content: "\e7fc";
+}
+
+.icon-import:before {
+  content: "\e7fd";
+}
+
+.icon-report:before {
+  content: "\e7fe";
+}
+
+.icon-meeting_information:before {
+  content: "\e7ff";
+}
+
+.icon-document:before {
+  content: "\e800";
+}
+
+.icon-Release_modify:before {
+  content: "\e801";
+}
+
+.icon-catering:before {
+  content: "\e802";
+}
+
+.icon-release:before {
+  content: "\e803";
+}
+
+.icon-password:before {
+  content: "\e804";
+}
+
+.icon-language:before {
+  font-size: 19px;
+  color: #fff;
+  content: "\e805";
+}
+
+.icon-rooms:before {
+  content: "\e806";
+}
+
+.icon-phone:before {
+  content: "\e807";
+}
+
+.icon-new:before {
+  content: "\e808";
+}
+
+.icon-arrow-up:before {
+  content: "\e7e4";
+}
+
+.icon-arrow-down:before {
+  content: "\e7e5";
+}
+
+.icon-arrow-right:before {
+  content: "\e7e6";
+  font-size: 8px;
+  font-weight: 400;
+  content: "\e7e6";
+  color: #ccc;
+}
+
+.icon-selected:before {
+  content: "\e7e7";
+}
+
